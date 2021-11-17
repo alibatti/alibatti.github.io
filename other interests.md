@@ -15,4 +15,4 @@ back in 2009, a classmate said I was a naive reader, who preferred narrative ove
 
 
 <b> volleyball and really whatever sport </b> <br>
-favourite time of the year?  Summer Olympic Games weeks. Too bad it only comes every four years (ok two, but even winter sports lovers will agree that  with the Winter Olympic Games all feels a bit different). 
+favourite time of the year?  Summer Olympic Games weeks. Too bad it only comes every four years. 
