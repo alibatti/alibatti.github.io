@@ -12,12 +12,12 @@
 
     .pageTitle {
       color: $primary-color;
-      font-weight: 10;
+      font-weight: 300;
       justify-content: center;
     }
 
     > div {
-      padding: 20px;
+      padding: 10px;
 
       @include min(md) {
         flex: 1;
