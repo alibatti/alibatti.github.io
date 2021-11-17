@@ -1,0 +1,35 @@
+# Your Name or Company
+title: Alice Battiston
+
+# Description of your website. This is used for social sharing.
+description:  My name is Alice Battiston and I am a second-year PhD candidate in Modeling and Data Science at the University of Turin.
+
+# A brief blurb about yourself
+content: Hi all! My name is Alice Battiston and I am a second-year PhD candidate in Modeling and Data Science at the University of Turin, working under the supervision of Prof. Rossano Schifanella. My research is at the intersection of computational social science, spatial analysis and the modeling of urban systems. I am interested in data-driven approaches to policy-making in urban environments, with a focus on enhancing the liveability and sustainability of our cities. My background is in Economics and Statistics, which I studied in Turin @UniversityOfTurin and @CollegioCarloAlberto and in London @UniversityCollegeLondon. Before joining the academia again in 2020, I worked for three years in Economic consultancy (@LondonEconomics, London, UK), specializing in applied micro-econometrics. 
+
+# Add your social links
+social:
+  - platform: email
+    url: mailto:ali.battistpn@gmail.com
+  - platform: twitter
+    url: https://twitter.com/cettixit
+  - platform: linkedin
+    url: https://it.linkedin.com/in/alice-battiston
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: AliceBattiston.png
+#google_analytics: "G-QJW8913FZV" # google analytics tracking
+
+sass:
+    sass_dir: ./assets/ccs
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
