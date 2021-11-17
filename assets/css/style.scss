@@ -1,0 +1,704 @@
+---
+---
+// Site base
+//@import "base/normalize";
+/*! modern-normalize | MIT License | https://github.com/sindresorhus/modern-normalize */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * Use a better box model (opinionated).
+ */
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+/**
+ * Use a more readable tab size (opinionated).
+ */
+
+:root {
+	-moz-tab-size: 4;
+	tab-size: 4;
+}
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+	line-height: 1.15; /* 1 */
+	-webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+	margin: 0;
+}
+
+/**
+ * Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+ */
+
+body {
+	font-family:
+		-apple-system,
+		BlinkMacSystemFont,
+		'Segoe UI',
+		Roboto,
+		Helvetica,
+		Arial,
+		sans-serif,
+		'Apple Color Emoji',
+		'Segoe UI Emoji',
+		'Segoe UI Symbol';
+}
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * Add the correct height in Firefox.
+ */
+
+hr {
+	height: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Add the correct text decoration in Chrome, Edge, and Safari.
+ */
+
+abbr[title] {
+	text-decoration: underline dotted;
+}
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+
+/* b,
+strong {
+	font-weight: bolder;
+}
+ */
+
+/**
+ * 1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp,
+pre {
+	font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace; /* 1 */
+	font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+	font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+ */
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+sup {
+	top: -0.5em;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+	font-family: inherit; /* 1 */
+	font-size: 100%; /* 1 */
+	line-height: 1.15; /* 1 */
+	margin: 0; /* 2 */
+}
+
+/**
+ * Remove the inheritance of text transform in Edge and Firefox.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+
+button,
+select { /* 1 */
+	text-transform: none;
+}
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+	-webkit-appearance: button;
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+
+button::-moz-focus-inner,
+[type='button']::-moz-focus-inner,
+[type='reset']::-moz-focus-inner,
+[type='submit']::-moz-focus-inner {
+	border-style: none;
+	padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+button:-moz-focusring,
+[type='button']:-moz-focusring,
+[type='reset']:-moz-focusring,
+[type='submit']:-moz-focusring {
+	outline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+	padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * Remove the padding so developers are not caught out when they zero out `fieldset` elements in all browsers.
+ */
+
+legend {
+	padding: 0;
+}
+
+/**
+ * Add the correct vertical alignment in Chrome and Firefox.
+ */
+
+progress {
+	vertical-align: baseline;
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Safari.
+ */
+
+[type='number']::-webkit-inner-spin-button,
+[type='number']::-webkit-outer-spin-button {
+	height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type='search'] {
+	-webkit-appearance: textfield; /* 1 */
+	outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type='search']::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+	-webkit-appearance: button; /* 1 */
+	font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Chrome and Safari.
+ */
+
+summary {
+	display: list-item;
+}
+
+//@import "base/config";
+/***************
+COLOR VARIABLES
+***************/
+$primary-color: purple;
+$link-color: $primary-color;
+
+/***************
+CONSISTENT SETTINGS
+***************/
+$padding: 50px; // Padding and margins
+$line-height: 44px; // Consistent height for buttons, inputs etc.
+
+/***************
+TYPE SETTINGS
+***************/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700,700i");
+$sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
+
+/***************
+SIZES
+Browser Context (this is needed for the px to em's mixin)
+***************/
+$browser-context: 16; // Default
+
+/***************
+RESPONSIVE BREAKPOINTS
+***************/
+$breakpoints: (md: 768px);
+
+/* @import "base/mixins";*/
+/// Pixels to Rems Function
+/// Return a rem value of the exact amount of pixels that you need
+/// @example
+///     padding: rem(20);
+@function rem($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}rem;
+}
+
+@function color($color) {
+  @if map-has-key($colors, $color) {
+    @return map-get($colors, $color);
+  } @else {
+    @warn 'Color does not exist! If a browser default exists it will use that.';
+    @return $color;
+  }
+}
+
+// Responsive Mixin Mobile First
+// @include min(md);
+@mixin min($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    $value: map-get($breakpoints, $breakpoint);
+
+    @media screen and (min-width: $value) {
+      @content;
+    }
+  }
+}
+
+// Responsive Mixin
+// @include max((md);
+@mixin max($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    $value: map-get($breakpoints, $breakpoint);
+
+    @media screen and (max-width: $value) {
+      @content;
+    }
+  }
+}
+
+// Responsive background images
+@mixin responsivebackground($sm, $md, $lg) {
+  @media screen and (max-width: 800px) {
+    background-image: url("/assets/img/"+$sm);
+  }
+  @media screen and (min-width: 801px) and (max-width: 1200px) {
+    background-image: url("/assets/img/"+$md);
+  }
+  @media screen and (min-width: 1200px) {
+    background-image: url("/assets/img/"+$lg);
+  }
+}
+
+/*@import "base/typography";*/
+/***************
+A MORE MODERN SCALE
+http://typecast.com/blog/a-more-modern-scale-for-web-typography
+***************/
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  margin: 30px;
+  /*margin: .5rem 0 1.5rem;*/
+  font-family: $sans-serif;
+}
+
+// Headings
+h1, .h1 {
+  font-size: rem(32); // 2x body copy size = 32px
+  line-height: 1.25; // 45px / 36px
+}
+
+@media (min-width: 43.75em) {
+  h1, .h1 {
+    font-size: rem(40); // 2.5x body copy size = 40px
+    line-height: 1.125;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h1, .h1 {
+    font-size: 3em; // 3x body copy size = 48px
+    line-height: 1.05; // keep to a multiple of the 20px line height and something more appropriate for display headings
+  }
+}
+
+h2, .h2 {
+  font-size: 1.625em; // 1.625x body copy size = 26px
+  line-height: 1.15384615; // 30px / 26px
+}
+
+@media (min-width: 43.75em) {
+  h2, .h2 {
+    font-size: 2em; // 2x body copy size = 32px
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h2, .h2 {
+    font-size: 2.25em; // 2.25x body copy size = 36px
+    line-height: 1.25;
+  }
+}
+
+h3, .h3 {
+  font-size: 1.375em; // 1.375x body copy size = 22px
+  line-height: 1.13636364; //25px / 22px
+}
+
+@media (min-width: 43.75em) {
+  h3, .h3 {
+    font-size: 1.5em; // 1.5x body copy size = 24px
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h3, .h3 {
+    font-size: 1.75em; // 1.75x body copy size = 28px
+    line-height: 1.25;
+  }
+}
+
+h4, .h4 {
+  font-size: 1.125em; // 1.125x body copy size = 18px
+  line-height: 1.11111111;
+}
+
+@media (min-width: 43.75em) {
+  h4, .h4 {
+    line-height: 1.22222222; // 22px / 18px
+  }
+}
+
+blockquote {
+  font-size: 1.25em; // 20px / 16px
+  line-height: 1.25; // 25px / 20px
+  padding: 0;
+}
+
+@media (min-width: 43.75em) {
+  blockquote {
+    font-size: 1.5em; // 24px / 16px
+    line-height: 1.45833333; // 35px / 24px
+  }
+}
+
+/*@import "base/global"; */
+/***************
+GLOBAL STYLES
+***************/
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: $sans-serif;
+  font-weight: 300;
+  line-height: 1.75;
+  font-size: 100%; // 18px base font size
+  color: black;
+  overflow-x: hidden;
+  margin: 10;
+  flex-direction: column;
+
+  @include min(md) {
+    font-size: 112.5%;
+  }
+
+  p,
+  ul {
+    margin: 30px;
+  }
+}
+
+// Text Selection Styling
+::-moz-selection {
+  background: $primary-color;
+  color: white;
+}
+
+::selection {
+  background: $primary-color;
+  color: white;
+}
+
+/***************
+MEDIA
+***************/
+
+// Media Styling
+img,
+video,
+audio,
+iframe,
+object {
+  max-width: 100%;
+}
+
+// Modules
+
+/*@import "modules/buttons"; */
+/***************
+BUTTON DEFAULTS
+***************/
+
+@mixin button--outline($btn-color: $primary-color, $btn-font-color: white) {
+  background-color: transparent;
+  display: inline-block;
+  position: relative;
+  font-family: $sans-serif;
+  text-decoration: none;
+  color: $btn-color;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  font-weight: 300;
+  padding: 0.5em 1.5em;
+  border: 1px solid $btn-color;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+  transition: background-color 0.14s ease-in-out;
+
+  // hovering on the btn
+  &:hover,
+  &:focus {
+    color: $btn-font-color;
+    text-decoration: none;
+    background-color: $btn-color;
+  } // end hover
+} // end .button
+
+@mixin button--outline2($btn-color: $primary-color, $btn-font-color: white) {
+  background-color: transparent;
+  display: inline-block;
+  position: relative;
+  font-family: $sans-serif;
+  text-decoration: none;
+  color: $btn-color;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  font-weight: 300;
+  padding: 0.5em 0.5em;
+  border: 1px solid $btn-color;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+  transition: background-color 0.14s ease-in-out;
+
+  // hovering on the btn
+  &:hover,
+  &:focus {
+    color: $btn-font-color;
+    text-decoration: none;
+    background-color: $btn-color;
+  } // end hover
+} // end .button
+
+// @import "modules/forms";
+// @import "modules/tables";
+/*@import "modules/links";
+@import "modules/lists";
+
+// Import Layouts
+/* @import "layouts/half"; */
+.half {
+  main {
+    display: flex;
+    flex-direction: column;
+
+    @include min(md) {
+      flex-direction: row;
+      height: 100vh;
+      width: 100vw;
+      align-items: stretch;
+    }
+
+    .pageTitle {
+      color: $primary-color;
+      font-weight: 300;
+      justify-content: center;
+      margin: 20;
+    }
+
+    > div {
+      padding: 20px;
+
+      @include min(md) {
+        flex: 1;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        padding: $padding;
+      }
+    }
+  }
+
+  .socialLinks__link {
+    @include button--outline();
+  }
+	
+  .socialLinks__link_head {
+    @include button--outline2();
+  }
+
+  &__content {
+    order: 2;
+
+    &.half--left {
+      @include min(md) {
+        order: 1;
+        flex-basis: 0.75;
+        max-width: 40vw;
+      }
+    }
+  }
+
+  &__image {
+    min-height: 50vh;
+    order: 1;
+    background-size: cover;
+    background-position: center;
+    @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
+  }
+}
+
+/*@import "layouts/other";*/
+.other {
+  main {
+    /*display: flex;
+    flex-direction: column;*/
+
+    @include min(md) {
+      flex-direction: row;
+      height: 200vh;
+      width: 200vw;
+      align-items: stretch;
+    }
+
+    .pageTitle {
+      color: $primary-color;
+      font-weight: 300;
+      margin: 30px;
+    }
+
+	  
+    > div {
+      padding: 20px;
+
+      @include min(md) {
+        flex: 1;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        padding: $padding;
+      }
+    }
+  }
+
+  .socialLinks__link {
+    @include button--outline();
+  }
+	
+  .socialLinks__link_head {
+    @include button--outline2();
+  }
+
+  &__content {
+    &.half--left {
+      @include min(md) {
+        flex-basis: 0.75;
+        max-width: 40vw;
+      }
+    }
+  }
+
+/*  &__image {
+    min-height: 50vh;
+    order: 1;
+    background-size: cover;
+    background-position: center;
+    @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
+  } */
+} 
+
+/*@import "layouts/full";
+@import "layouts/card"; */
