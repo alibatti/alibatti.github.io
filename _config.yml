@@ -20,7 +20,7 @@ social:
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
-sharing_image: AliceBattiston.JPG
+sharing_image: assets/img/AliceBattiston.JPG
 #google_analytics: "G-QJW8913FZV" # google analytics tracking
 
 sass:
