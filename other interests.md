@@ -8,6 +8,7 @@ title: Teaching
 
 <b> trekking and hiking </b>  <br>
 my birthplace is Rome, but my home is Mazzin, in Val di Fassa,  where I learned that happiness is made of rocks, hiking boots and trees.  
+My trekking diary (in progress): <a href="https://www.google.com/maps/d/u/0/edit?mid=1LPrLPw3xdlhifAfBI97iSLqygzLYiVH5&usp=sharing">here</a> 
 
 
 <b> reading </b> <br>
