@@ -1,9 +1,9 @@
 ---
 layout: other
-title: Other interests
+title: Personal interests
 ---
 
-<h1 class = "pageTitle"> Other interests </h1>
+<h1 class = "pageTitle"> Personal interests </h1>
 <br>
 
 <b> trekking and hiking </b>  <br>
