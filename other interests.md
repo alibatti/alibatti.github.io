@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Teaching
+title: Other interests
 ---
 
 <h1 class = "pageTitle"> Other interests </h1>
