@@ -18,7 +18,7 @@ where I presented my work on <i> Understanding the determinants of gender gap in
 
 <h3> Service to the community </h3>
 
-I served as reviewer for the following academic journal and conferences:
+I served as reviewer for the following academic journals and conferences:
 
 <ul>
 
