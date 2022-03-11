@@ -11,7 +11,7 @@ We could have met: <br>
 
 <ul>
 <li>in July 2021 <a href="https://ic2s2-2021.ethz.ch/"> <b> @IC2S2 2021 - 7th International Conference on Computational Social Science </b> </a> <br>
-where I presented my work on <i> Understanding the determinants of gender gap in cycling </i> </li>
+where I presented my work on <i> Revealing the determinants of gender inequality in urban cycling with large-scale data </i> </li>
   
 <li>in December 2020 at the urban satellites sessions of <a href="http://ccs2020.web.auth.gr/" > <b> Conference on Complex Systems (CCS) 2020 </b>  </a></li>
 </ul>
