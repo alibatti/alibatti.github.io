@@ -12,5 +12,5 @@ title: Research projects
 
 <h3> Data descriptors </h3>
 
-<a href="https://www.nature.com/articles/s41597-022-01174-z"> <b> High spatial resolution dataset of La Mobilière insurance customers </b> </a> with  Emanuele Massaro, Claudia R. Binder & Rossano Schifanella. Published on  <a href= "https://www.nature.com/sdata/"> Scientific Data</a> 
+<a href="https://www.nature.com/articles/s41597-022-01174-z"> <b> High spatial resolution dataset of La Mobilière insurance customers </b> </a> with  Emanuele Massaro, Claudia R. Binder & Rossano Schifanella. <br> Published on  <a href= "https://www.nature.com/sdata/"> Scientific Data</a> 
 
