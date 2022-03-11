@@ -13,7 +13,7 @@ If you have an Outdooractive account, you can take a look at my trekking diary (
 
 <b> reading </b> <br>
 back in 2009, a classmate said I was a naive reader, who preferred narrative over essays. Well, this still applies, luckily. <br>
-Follow me on Goodreads to share your advices on books and comics with me!
+Follow me on <a href="https://www.goodreads.com/user/show/145584927-alice-battiston"> Goodreads</a> to share your advices on books and comics with me!
 
 
 <b> volleyball and really whatever sport </b> <br>
