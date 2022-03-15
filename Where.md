@@ -5,7 +5,7 @@ title: Other activities
 
 <h1 class = "pageTitle"> Other activities </h1>
 
-<h3> Conferences and workshops </h3>
+<h4> Conferences and workshops </h4>
 
 We could have met: <br>
 
@@ -16,7 +16,7 @@ where I presented my work on <i> Revealing the determinants of gender inequality
 <li>in December 2020 at the urban satellites sessions of <a href="http://ccs2020.web.auth.gr/" > <b> Conference on Complex Systems (CCS) 2020 </b>  </a></li>
 </ul>
 
-<h3> Service to the community </h3>
+<h4> Service to the community </h4>
 
 I served as reviewer/subreviewer for the following academic journals and conferences:
 
