@@ -7,8 +7,7 @@ title: Research projects
 
 <h4> Research articles </h4>
 
-<b> Revealing the determinants of gender inequality in urban cycling with large-scale data </b> with L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell and R. Schifanella <br> <i>(Draft coming soon!)</i> 
-
+<a href= "https://arxiv.org/abs/2203.09378"> <b> Revealing the determinants of gender inequality in urban cycling with large-scale data</b></a> with L. Napoli, P. Bajardi, A. Panisson, A. Perotti, M. Szell and R. Schifanella <br> <i>(Pre-print finally out!)</i> 
 
 <h4> Data releases </h4>
 
