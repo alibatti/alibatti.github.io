@@ -10,6 +10,9 @@ title: Other activities
 We could have met: <br>
 
 <ul>
+  
+<li>in August 2022  at the <a href="https://2022.stateofthemap.org/"> <b> State of the Map 2022 </b> </a>, in Florence, Italy  </li>
+<li>in June 2022  at the <a href="https://www.eventbrite.ie/e/gogreenroutes-summer-school-360-health-where-nature-and-health-rhyme-registration-311068543387"> <b> GoGreenRoutesSummerSchool </b> </a> in Malta</li>
 <li>in July 2021 <a href="https://ic2s2-2021.ethz.ch/"> <b> @IC2S2 2021 - 7th International Conference on Computational Social Science </b> </a> <br>
 where I presented my work on <i> Revealing the determinants of gender inequality in urban cycling with large-scale data </i> </li>
   
