@@ -7,7 +7,7 @@ title: Other activities
 <h3> Visiting periods </h3>
   
 I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to May 2023. 
-Drop me a text if you are in town, want to collaborate or just are curious to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! 
+Drop me a text if you are in town, want to collaborate or are just curious to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! 
   
 <h3> Conferences and workshops </h3>
 
