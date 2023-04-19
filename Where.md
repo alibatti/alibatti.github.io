@@ -8,18 +8,19 @@ title: Other activities
 <ul>
   
 <li>
-I will be visiting the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to December 2022. Drop me a text if you are in town! </li>
+I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to May 2023. Drop me a text if you are in town, want to collaborate or just want to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! </li>
   
 </ul>
 
 <h3> Conferences and workshops </h3>
 
-I will be attending the <a href="https://www.elsevier.com/events/conferences/urban-transitions"> <b> Urban Transitions 2022 </b> </a>, in Sitges, Spain, in November 2022. Text me if you will be around too!  </li>
+I will be attending the <a href="https://www.ic2s2.org/"> <b> IC2S2 2023 </b> </a>, in Copenhagen, Denmark, in July 2023. Text me if you will be around too! </li>
 
 We could have met: <br>
 
 <ul>
   
+<li> in November 2022 <a href="https://www.elsevier.com/events/conferences/urban-transitions"> <b> Urban Transitions 2022 </b> </a>, in Sitges, Spain </li> 
 <li>in August 2022  at the <a href="https://2022.stateofthemap.org/"> <b> State of the Map 2022 </b> </a>, in Florence, Italy  </li>
 <li>in June 2022  at the <a href="https://www.eventbrite.ie/e/gogreenroutes-summer-school-360-health-where-nature-and-health-rhyme-registration-311068543387"> <b> GoGreenRoutesSummerSchool </b> </a> in Valletta, Malta</li>
 <li>in July 2021 <a href="https://ic2s2-2021.ethz.ch/"> <b> @IC2S2 2021 - 7th International Conference on Computational Social Science </b> </a> <br>
@@ -33,6 +34,10 @@ where I presented my work on <i> Revealing the determinants of gender inequality
 I served as reviewer/subreviewer for the following academic journals and conferences:
 
 <ul>
+  
+ <li> <a href="https://wikiworkshop.org/2023/" > WikiWorkshop 2023 </a></li>
+
+<li> <a href="https://www2023.thewebconf.org/" > TheWebConf 2023 </a></li>
 
 <li> <a href="https://epjdatascience.springeropen.com/" > EPJ Data Science </a></li>
 
