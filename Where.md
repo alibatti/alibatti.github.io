@@ -14,7 +14,7 @@ I will be visiting the wonderful Data Analytics and Visualization Team of the <a
 
 <h3> Conferences and workshops </h3>
 
-I will be attending the <a href="https://www.ic2s2.org/"> <b> IC2S2 2023 </b> </a>, in Copenhagen, Denmark, in July 2023. Text me if you will be around too! </li>
+<li> I will be attending the <a href="https://www.ic2s2.org/"> <b> IC2S2 2023 </b> </a>, in Copenhagen, Denmark, in July 2023. Text me if you will be around too! </li>
 
 We could have met: <br>
 
