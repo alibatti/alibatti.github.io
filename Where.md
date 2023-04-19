@@ -6,8 +6,9 @@ title: Other activities
 <h1 class = "pageTitle"> Other activities </h1>
 <h3> Visiting periods </h3>
   
-I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to May 2023. 
-Drop me a text if you are in town, want to collaborate or are just curious to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! 
+I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC) </b> </a> from September 2022 to May 2023. 
+
+Drop me a text if you are in town, want to collaborate or are just curious to explore the Sci-Fi setting of BSC! 
   
 <h3> Conferences and workshops </h3>
 
