@@ -5,16 +5,13 @@ title: Other activities
 
 <h1 class = "pageTitle"> Other activities </h1>
 <h3> Visiting periods </h3>
-<ul>
   
-<li>
-I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to May 2023. Drop me a text if you are in town, want to collaborate or just want to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! </li>
+I will be visiting the wonderful Data Analytics and Visualization Team of the <a href="https://www.bsc.es/"> <b> Barcelona Supercomputing Center (BSC-CNS) </b> </a> from September 2022 to May 2023. 
+Drop me a text if you are in town, want to collaborate or just are curious to explore the Sci-Fi setting of BSC (the supercomputer is hosted in a chapel!)! 
   
-</ul>
-
 <h3> Conferences and workshops </h3>
 
-<li> I will be attending the <a href="https://www.ic2s2.org/"> <b> IC2S2 2023 </b> </a>, in Copenhagen, Denmark, in July 2023. Text me if you will be around too! </li>
+I will be attending the <a href="https://www.ic2s2.org/"> <b> IC2S2 2023 </b> </a>, in Copenhagen, Denmark, in July 2023. Text me if you will be around too!
 
 We could have met: <br>
 
